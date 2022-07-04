@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## For Access Online
 
-Click: (https://efoosag.github.io/kanban-group/)
+[Link to live version] (https://brainconnect93.github.io/kanban-group/)
 
 ## Link to project recording
 
