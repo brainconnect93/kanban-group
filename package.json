@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/efoosag/kanban-group/issues"
   },
-  "homepage": "https://github.com/efoosag/kanban-group#readme",
+  "homepage": "https://github.com/efoosag/kanban-group",
   "devDependencies": {
     "@babel/core": "^7.18.5",
     "@babel/preset-env": "^7.18.2",
