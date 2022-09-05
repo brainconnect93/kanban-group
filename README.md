@@ -17,9 +17,11 @@
 - Display comments
 - Add Stylings
 - Carry jest test
+### TV maze Screenshot
+> ![kanban](https://user-images.githubusercontent.com/78634841/188425815-d1bd011f-5436-4fbf-99d7-ea355fab0a27.png)![kanban1](https://user-images.githubusercontent.com/78634841/188425835-3874f2ad-96b7-4ecf-b6e0-bad310d802c7.png) ![kanban2](https://user-images.githubusercontent.com/78634841/188425951-c60d9d96-a3a5-402a-8695-713728135a0d.png) ![kanban3](https://user-images.githubusercontent.com/78634841/188426024-e6e1ae7d-4cc1-45ff-bd8a-793ba5fd90b7.png)
+
 
 ## Built With
-
 - Major languages
   HTML
   CSS
