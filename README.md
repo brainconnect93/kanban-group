@@ -18,7 +18,7 @@
 - Add Stylings
 - Carry jest test
 ### TV maze Screenshot
-> ![kanban](https://user-images.githubusercontent.com/78634841/188425815-d1bd011f-5436-4fbf-99d7-ea355fab0a27.png)
+![kanban](https://user-images.githubusercontent.com/78634841/188425815-d1bd011f-5436-4fbf-99d7-ea355fab0a27.png)
 ![kanban1](https://user-images.githubusercontent.com/78634841/188425835-3874f2ad-96b7-4ecf-b6e0-bad310d802c7.png)
 
 
